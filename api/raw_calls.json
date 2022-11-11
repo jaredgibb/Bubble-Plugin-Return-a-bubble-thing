@@ -1,0 +1,16 @@
+{
+    "calls": {
+        "AAC": {
+            "initialized": true,
+            "method": "get",
+            "name": "Psuedo Call",
+            "publish_as": "data",
+            "rank": 0,
+            "ret_value": "api.1629557694553x572764886080421900.plugin_api.AAC",
+            "should_reinitialize": true,
+            "types": "{\"plugin_api.AAC\":{\"caption\":\"Psuedo Call\",\"fields\":{\"_p_string\":{\"ret_value\":\"text\",\"caption\":\"string\",\"sample_value\":\"asdfasdf\",\"path\":[\"string\"]},\"_p_boolean\":{\"ret_value\":\"boolean\",\"caption\":\"boolean\",\"sample_value\":false,\"path\":[\"boolean\"]},\"_p_number\":{\"ret_value\":\"number\",\"caption\":\"number\",\"sample_value\":4,\"path\":[\"number\"]},\"_p_list\":{\"ret_value\":\"list.text\",\"caption\":\"list\",\"sample_value\":\"asdf\",\"path\":[\"list\"]}}}}",
+            "url": "https://api.thecatapi.com/v1/images/search"
+        }
+    },
+    "human": "Return My Object"
+}

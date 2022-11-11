@@ -1,0 +1,22 @@
+{
+    "category": "plugins",
+    "display": "return sample data",
+    "fields": {
+        "AAE": {
+            "caption": "Data type to return",
+            "editor": "custom_type",
+            "name": "data_type_to_return",
+            "rank": 0
+        }
+    },
+    "return_value": {
+        "AAF": {
+            "caption": "returned data",
+            "is_list": true,
+            "name": "returned_data",
+            "rank": 0,
+            "value": "custom_data_AAE"
+        }
+    },
+    "type": "server_side"
+}

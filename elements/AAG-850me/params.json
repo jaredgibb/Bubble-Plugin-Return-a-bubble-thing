@@ -1,0 +1,29 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 200,
+        "width": 400
+    },
+    "display": "any Element Name",
+    "fields": {
+        "AAH": {
+            "caption": "Data Type",
+            "editor": "custom_type",
+            "name": "datatype",
+            "rank": 0
+        }
+    },
+    "icon": "ion-android-checkbox-blank",
+    "states": {
+        "AAI": {
+            "caption": "Data Out",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "is_list": true,
+            "name": "data_out",
+            "value": "custom_data_AAH"
+        }
+    }
+}

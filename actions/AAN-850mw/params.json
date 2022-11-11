@@ -1,0 +1,15 @@
+{
+    "category": "plugins",
+    "display": "returnMoreData",
+    "fields": {
+        "AAO": {
+            "caption": "input",
+            "editor": "DynamicValue",
+            "name": "input",
+            "optional": false,
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "client_side"
+}

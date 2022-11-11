@@ -1,0 +1,12 @@
+{
+    "caption": "convert to base64",
+    "fields": {
+        "AAR": {
+            "caption": "input",
+            "editor": "DynamicValue",
+            "name": "input",
+            "rank": 0,
+            "value": "text"
+        }
+    }
+}

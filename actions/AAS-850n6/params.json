@@ -1,0 +1,14 @@
+{
+    "category": "plugins",
+    "display": "bringInLibrary",
+    "return_value": {
+        "AAT": {
+            "caption": "string",
+            "name": "string",
+            "rank": 0,
+            "value": "text"
+        }
+    },
+    "type": "server_side",
+    "use_packages": true
+}

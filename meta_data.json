@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "data (things)"
+    },
+    "demo_page": "http://jaredgibb.bubbleapps.io/version-test/return_object_demo?debug_mode=true",
+    "description": "just a demo plugin\n",
+    "image": "//s3.amazonaws.com/appforest_uf/f1662219388438x713655113760156300/redButton.png",
+    "license": "open_source",
+    "link": "https://bubble.io/page?type=page&name=return_object_demo&id=jaredgibb&tab=tabs-5",
+    "name": "Return a bubble thing",
+    "sa_node_version": 14
+}

@@ -1,0 +1,31 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 5,
+        "width": 5
+    },
+    "display": "returnEventActionData",
+    "events": {
+        "AAM": {
+            "caption": "dataPublished",
+            "name": "dataPublished"
+        }
+    },
+    "icon": "ion-android-send",
+    "property_applications": {
+        "MinWidth": true,
+        "resizable": true
+    },
+    "states": {
+        "AAL": {
+            "caption": "string",
+            "doc": "simple",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n return \"string value\" \n\n}"
+            },
+            "name": "string",
+            "value": "text"
+        }
+    }
+}
